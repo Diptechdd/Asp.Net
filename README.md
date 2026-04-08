@@ -1,2 +1,2 @@
-# Asp.Net
-Basic to advanced, With javaScript, Python
+# CNN
+DL,ML,AI
